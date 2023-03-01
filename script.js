@@ -5,6 +5,7 @@
         countdown("10")
         cb();
     }
+    
     function two (cb = () =>{}) {
         countdown("9")
         cb();
